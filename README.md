@@ -6,6 +6,8 @@
 ![Node >= 20](https://img.shields.io/badge/Node-%3E%3D%2020-339933?logo=nodedotjs&logoColor=white)
 ![MCP server](https://img.shields.io/badge/MCP-server-5A67D8)
 
+https://github.com/user-attachments/assets/12b0a01c-1592-465f-927a-ba421ec32ab7
+
 **In this study, all five AI judges went easier on their own lab's answers than on everyone else's.** Five frontier models answered twelve business scenarios and then judged each other blind. **[Read the findings](https://mcp-tournament.pages.dev/#/study/flagship-2026-10)**.
 
 Build a custom LLM benchmark in a form, run it from a local GUI, MCP client, or CLI, and turn independent judge opinions into ranked, auditable results.
